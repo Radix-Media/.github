@@ -1,8 +1,8 @@
-# Radix Media - Web Development & IT Solutions Company
+# Radix Media - Web Development & IT Solutions
 
 ## Overview
 
-Radix Media stands at the intersection of technology and innovation, providing holistic digital solutions for businesses around the globe. Our seasoned team of developers, designers, system administrators, and strategists are committed to transforming digital landscapes with our comprehensive suite of services.
+Radix Media stands at the intersection of technology and innovation, providing digital solutions for businesses in North America. Our seasoned team of developers, designers, system administrators, and strategists are committed to transforming digital landscapes with our comprehensive suite of services.
 
 ---
 
